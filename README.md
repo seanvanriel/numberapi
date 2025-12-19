@@ -1,4 +1,3 @@
-# numberapi
 API for numbers
 
 ## how to call api
