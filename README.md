@@ -6,6 +6,8 @@ API for numbers
 
 ```
 https://seanvanriel.github.io/numberapi/numberjacks/0.webp
+```
+```
                                                     ^
                                                     |
                                             digit goes here
