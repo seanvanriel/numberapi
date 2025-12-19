@@ -1,3 +1,2 @@
-# number api
-
-yo yoyo it's seans number api  y o
+!(https://seanvanriel.github.io/numberapi/numberjacks/6.webp)
+!(https://seanvanriel.github.io/numberapi/numberjacks/7.webp)
